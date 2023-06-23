@@ -1,0 +1,8 @@
+C:\Users\Vixen\source\repos\Alphabet\Alphabet\bin\Debug\Alphabet.exe.config
+C:\Users\Vixen\source\repos\Alphabet\Alphabet\bin\Debug\Alphabet.exe
+C:\Users\Vixen\source\repos\Alphabet\Alphabet\bin\Debug\Alphabet.pdb
+C:\Users\Vixen\source\repos\Alphabet\Alphabet\obj\Debug\Alphabet.csproj.AssemblyReference.cache
+C:\Users\Vixen\source\repos\Alphabet\Alphabet\obj\Debug\Alphabet.csproj.SuggestedBindingRedirects.cache
+C:\Users\Vixen\source\repos\Alphabet\Alphabet\obj\Debug\Alphabet.csproj.CoreCompileInputs.cache
+C:\Users\Vixen\source\repos\Alphabet\Alphabet\obj\Debug\Alphabet.exe
+C:\Users\Vixen\source\repos\Alphabet\Alphabet\obj\Debug\Alphabet.pdb
